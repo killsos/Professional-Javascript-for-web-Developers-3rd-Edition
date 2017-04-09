@@ -1,13 +1,4 @@
-### 1 简介
----
-* 1.1 简史
-* 1.2 实现
-  * 1.2.1 ECMAScript
-  * 1.2.2 DOM
-  * 1.2.3 BOM
-* 1.3 Javascript版本
-* 1.4 总结
----
+### read book summary
 
 * script async defer
 
